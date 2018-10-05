@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/seg.dir/src/main.o  -o seg /usr/local/lib/libopencv_highgui.3.4.1.dylib /usr/local/lib/libopencv_videoio.3.4.1.dylib /usr/local/lib/libopencv_imgcodecs.3.4.1.dylib /usr/local/lib/libopencv_imgproc.3.4.1.dylib /usr/local/lib/libopencv_core.3.4.1.dylib 
